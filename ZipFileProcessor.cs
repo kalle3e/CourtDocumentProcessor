@@ -33,8 +33,8 @@ namespace CourtDocumentProcessor
 
                 if (IsValidZipFile(zipFilePath))
                 {
-                    //   string extractPath = ExtractZipFile(zipFilePath);
-                    //   _emailNotifier.SendNotification("ZIP file processed successfully", $"File extracted to: {extractPath}");
+                       string extractPath = ExtractZipFile(zipFilePath);
+                       _emailNotifier.SendNotification("ZIP file processed successfully", $"File extracted to: {extractPath}");
                 }
                 else
                 {
