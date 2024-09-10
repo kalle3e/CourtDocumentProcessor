@@ -1,34 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\KathieProject\\CourtDocumentProcessor\\",
+  "WorkspaceRootPath": "C:\\Users\\kathi\\CourtDocumentProcessor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|e:\\kathieproject\\courtdocumentprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|c:\\users\\kathi\\courtdocumentprocessor\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|c:\\users\\kathi\\courtdocumentprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|e:\\kathieproject\\courtdocumentprocessor\\zipfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|c:\\users\\kathi\\courtdocumentprocessor\\zipfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:zipfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|e:\\kathieproject\\courtdocumentprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|e:\\kathieproject\\courtdocumentprocessor\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|c:\\users\\kathi\\courtdocumentprocessor\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|e:\\kathieproject\\courtdocumentprocessor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|c:\\users\\kathi\\courtdocumentprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|e:\\kathieproject\\courtdocumentprocessor\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kathi\\AppData\\Local\\SourceServer\\60f269f8e08edae024ab21d2f07c28c55a0540fa0e303958987e6138532c9de4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|c:\\users\\kathi\\courtdocumentprocessor\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|e:\\kathieproject\\courtdocumentprocessor\\appconfigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|c:\\users\\kathi\\courtdocumentprocessor\\appconfigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:appconfigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|c:\\users\\kathi\\courtdocumentprocessor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CC586C12-9092-4D34-B8E0-5503717ECA40}|CourtDocumentProcessor.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,10 +89,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -98,78 +101,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.config",
-              "DocumentMoniker": "E:\\KathieProject\\CourtDocumentProcessor\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "E:\\KathieProject\\CourtDocumentProcessor\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-08T13:25:26.363Z",
+              "DocumentIndex": 0,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\CourtDocumentProcessor\\FileLogger.cs",
+              "RelativeDocumentMoniker": "FileLogger.cs",
+              "ToolTip": "C:\\Users\\kathi\\CourtDocumentProcessor\\FileLogger.cs",
+              "RelativeToolTip": "FileLogger.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:03:55.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\AppData\\Local\\SourceServer\\60f269f8e08edae024ab21d2f07c28c55a0540fa0e303958987e6138532c9de4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AppData\\Local\\SourceServer\\60f269f8e08edae024ab21d2f07c28c55a0540fa0e303958987e6138532c9de4\\Program.cs",
+              "ToolTip": "C:\\Users\\kathi\\AppData\\Local\\SourceServer\\60f269f8e08edae024ab21d2f07c28c55a0540fa0e303958987e6138532c9de4\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\AppData\\Local\\SourceServer\\60f269f8e08edae024ab21d2f07c28c55a0540fa0e303958987e6138532c9de4\\Program.cs [Read Only]",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:13:23.68Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kathi\\CourtDocumentProcessor\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\kathi\\CourtDocumentProcessor\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-08T13:25:26.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmailNotifier.cs",
-              "DocumentMoniker": "E:\\KathieProject\\CourtDocumentProcessor\\EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\CourtDocumentProcessor\\EmailNotifier.cs",
               "RelativeDocumentMoniker": "EmailNotifier.cs",
-              "ToolTip": "E:\\KathieProject\\CourtDocumentProcessor\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\kathi\\CourtDocumentProcessor\\EmailNotifier.cs",
               "RelativeToolTip": "EmailNotifier.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAnwA4AAABBAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T13:23:31.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\KathieProject\\CourtDocumentProcessor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\CourtDocumentProcessor\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\KathieProject\\CourtDocumentProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\kathi\\CourtDocumentProcessor\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAQwGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAABEAAAAAFzMzMzMKwBcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T13:19:51.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppConfigManager.cs",
-              "DocumentMoniker": "E:\\KathieProject\\CourtDocumentProcessor\\AppConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\CourtDocumentProcessor\\AppConfigManager.cs",
               "RelativeDocumentMoniker": "AppConfigManager.cs",
-              "ToolTip": "E:\\KathieProject\\CourtDocumentProcessor\\AppConfigManager.cs",
+              "ToolTip": "C:\\Users\\kathi\\CourtDocumentProcessor\\AppConfigManager.cs",
               "RelativeToolTip": "AppConfigManager.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwCQAAAASAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T13:12:18.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AppSettings.json",
-              "DocumentMoniker": "E:\\KathieProject\\CourtDocumentProcessor\\AppSettings.json",
+              "DocumentMoniker": "C:\\Users\\kathi\\CourtDocumentProcessor\\AppSettings.json",
               "RelativeDocumentMoniker": "AppSettings.json",
-              "ToolTip": "E:\\KathieProject\\CourtDocumentProcessor\\AppSettings.json",
+              "ToolTip": "C:\\Users\\kathi\\CourtDocumentProcessor\\AppSettings.json",
               "RelativeToolTip": "AppSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-08T12:49:14.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ZipFileProcessor.cs",
-              "DocumentMoniker": "E:\\KathieProject\\CourtDocumentProcessor\\ZipFileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\CourtDocumentProcessor\\ZipFileProcessor.cs",
               "RelativeDocumentMoniker": "ZipFileProcessor.cs",
-              "ToolTip": "E:\\KathieProject\\CourtDocumentProcessor\\ZipFileProcessor.cs",
+              "ToolTip": "C:\\Users\\kathi\\CourtDocumentProcessor\\ZipFileProcessor.cs",
               "RelativeToolTip": "ZipFileProcessor.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAawAQAAAAYAAAAAAAAAA==",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAvwG4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T12:40:18.597Z",
               "EditorCaption": ""
@@ -178,11 +206,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AppSettings.cs",
-              "DocumentMoniker": "E:\\KathieProject\\CourtDocumentProcessor\\AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\CourtDocumentProcessor\\AppSettings.cs",
               "RelativeDocumentMoniker": "AppSettings.cs",
-              "ToolTip": "E:\\KathieProject\\CourtDocumentProcessor\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\kathi\\CourtDocumentProcessor\\AppSettings.cs",
               "RelativeToolTip": "AppSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T12:34:02.332Z",
               "EditorCaption": ""
